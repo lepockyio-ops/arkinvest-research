@@ -1,0 +1,3 @@
+id,claim,value,unit,price_basis,period,geography,definition,source_org,doc_title,pub_date,access_date,locator,source_level,evidence_label,verifiable,crosscheck_status,limitations,used_in,formula_inputs
+D001,"示例：2024 年储能系统均价约 165 美元/kWh",165,USD/kWh,"名义,2024",CY2024,全球,"交钥匙系统,含逆变器,不含并网费",<机构>,<文档标题>,2024-12-10,2026-10-20,"p.14, Table 3",L3,第三方估算,部分,2源一致,样本偏向大型项目,"摘要;图4;§5.2",
+D002,"示例：派生数字（公式见 formula_inputs）",,USD,"名义,2024",CY2024,全球,,本报告,,,,附录B,,本报告推断,是,复算一致,,§6,"D002 = D001 × D0xx"

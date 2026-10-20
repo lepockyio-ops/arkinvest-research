@@ -1,0 +1,2 @@
+conflict_id,ledger_ids,values_and_sources,cause_step,adopted_value,rationale,impact_on_conclusion
+C001,"D010,D011","A机构: 120 (2024 年报); B机构: 95 (2025 报告)",1-口径(是否含插混),95,"口径与本报告定义一致,方法公开",中
